@@ -1,0 +1,10 @@
+**Random Music Generation**
+
+Collected data from a youtube video : https://www.youtube.com/watch?v=oG9sahHCD5M
+Then convert it into mp3 format and download it using a converter: https://ytmp3.cc/en13/
+Now we have a mp3 format audio data. So, using the python code which you get in triming of audio data we convert it into so many audio files each of length 30 sec.
+Then with the help of audio to midi convertor convert those mp3 files into midi files and download it using the convertor: https://www.bearaudiotool.com/mp3-to-midi
+
+
+You can find the trained model of Random piano here: 
+https://drive.google.com/file/d/1HXr02MIhi4YVUNDO_sIsimxxvU9VlX2L/view?usp=sharing

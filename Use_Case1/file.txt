@@ -1,0 +1,15 @@
+5/28/20, 1:58 PM - Messages to this chat and calls are now secured with end-to-end encryption. Tap for more info.
+5/28/20, 1:58 PM - Modabbir: Hi 
+Could you please clarify my doubt
+5/28/20, 1:58 PM - Sumit HR: Hi
+5/28/20, 1:58 PM - Modabbir: Regarding what I mentioned in my last mail
+5/28/20, 1:58 PM - Sumit HR: ok one sec
+5/28/20, 3:37 PM - Modabbir: 9458762@Define Big Data and explain the Vs of Big Data
+5/28/20, 3:38 PM - Modabbir: 9875201789@How is Hadoop related to Big Data
+5/28/20, 3:39 PM - Modabbir: 7894561237@What is the difference between supervised and unsupervised machine learning?
+5/28/20, 3:39 PM - Modabbir: 3215469870@How is KNN different from k-means clustering?
+5/28/20, 3:40 PM - Modabbir: 9874566230@Define and describe the term FSCK.
+5/28/20, 3:40 PM - Modabbir: 8794561233@Explain how a ROC curve works.
+5/28/20, 3:41 PM - Modabbir: 7894561233@How React works? How Virtual-DOM works in React?
+5/28/20, 3:41 PM - Modabbir: 9869741239@What is JSX?
+5/28/20, 3:42 PM - Modabbir: 9065562878@ What is ReactDOM and what is the difference between ReactDOM and React?

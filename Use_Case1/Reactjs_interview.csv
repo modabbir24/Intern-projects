@@ -1,0 +1,51 @@
+,questions
+0, What is React?
+3, What are the features of ReactJS?
+4, What are the Advantages of React JS?
+6, How ReactJS framework is different as compared to others?
+7, Does ReactJS use HTML?
+8, What is JSX?
+9, What are the life Cycles of ReactJS?
+10, When ReactJS released?
+11, How is ReactJs different from AngularJS?
+12, What is Redux?
+13, What is Use of Redux thunk?
+14, What do you know about Flux?
+15, What is the current stable version of ReactJS?
+16, What is the Repository URL of ReactJS?
+17, What do you know about the component lifecycle in ReactJS?
+18," Do you think ReactJS has any limitations? If so, tell a few?"
+19, How the parent and child components exchange information?
+20, What is a State in React and How is it used?
+21, What are the differences between the Class component and Functional component?
+25, How to embed two components in One component?
+28, Give one basic difference between pros and state?
+29, How do you tell React to build in Production mode and what will that do?
+30, What do you understand with the term polling?
+31, When would you use a Class Component over a Functional Component?
+32, What do you mean by virtual DOM?
+33, Compare MVC with Flux?
+34, What’s the difference between an Element and a Component in React?
+36, Tell us three reasons behind the success of ReactJS?
+37, In which lifecycle event do you make AJAX requests and why?
+38, What is the difference between createElement and cloneElement?
+39, What is meant by event handling?
+40, What is the second argument that can optionally be passed to setState and what is its purpose?
+41, How many outermost elements can be there in a JSX expression?
+42, What are controlled and uncontrolled components?
+43, Mention the key benefits of Flux?
+44, What's wrong with the following code?
+45, Why browsers cannot read JSX?
+46, What are pure functional Components?
+47, What happens during the lifecycle of a React component?
+48, What exactly you can do if the expression contains more than one line?
+49, Is it possible to use the word “Class” in JSX. Why or why not?
+50, What do you know about React Router?
+51, Compare Flux vs MVC
+52, What are the stateless components?
+53, What is one of the core types in React?
+54, What is redux? 
+55, Is it possible to display props on a parent component?
+56," In ReactJS, why there is a need to capitalize on the components?"
+58, Explain DOM diffing?
+59, Is it possible to nest JSX elements into other JSX elements? 

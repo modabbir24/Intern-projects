@@ -1,0 +1,51 @@
+,questions
+0, What is Machine learning? 
+1, Mention the difference between Data Mining and Machine learning?  
+2, What is ‘Overfitting’ in Machine learning? 
+3, Why overfitting happens? 
+4, How can you avoid overfitting ? 
+6, What is inductive machine learning? 
+7, What are the five popular algorithms of Machine Learning? 
+8, What are the different Algorithm techniques in Machine Learning? 
+9, What are the three stages to build the hypotheses or model in machine learning? 
+10, What is the standard approach to supervised learning? 
+11, What is ‘Training set’ and ‘Test set’? 
+12, List down various approaches for machine learning? 
+13, What is not Machine Learning? 
+14, Explain what is the function of ‘Unsupervised Learning’? 
+15, Explain what is the function of ‘Supervised Learning’? 
+16, What is algorithm independent machine learning? 
+17, What is the difference between artificial learning and machine learning? 
+18, What is classifier in machine learning? 
+19, What are the advantages of Naive Bayes? 
+20, In what areas Pattern Recognition is used? 
+21, What is Genetic Programming? 
+22, What is Inductive Logic Programming in Machine Learning? 
+23, What is Model Selection in Machine Learning? 
+24, What are the two methods used for the calibration in Supervised Learning? 
+25, Which method is frequently used to prevent overfitting? 
+26, What is the difference between heuristic for rule learning and heuristics for decision trees? 
+27, What is Perceptron in Machine Learning? 
+28, Explain the two components of Bayesian logic program? 
+29, What are Bayesian Networks (BN
+30, Why instance based learning algorithm sometimes referred as Lazy learning algorithm? 
+31, What are the two classification methods that SVM ( Support Vector Machine
+32, What is ensemble learning? 
+33, Why ensemble learning is used? 
+34, When to use ensemble learning? 
+35, What are the two paradigms of ensemble methods? 
+36, What is the general principle of an ensemble method and what is bagging and boosting in ensemble method? 
+37, What is bias-variance decomposition of classification error in ensemble method? 
+38, What is an Incremental Learning algorithm in ensemble? 
+39," What is PCA, KPCA and ICA used for? "
+40, What is dimension reduction in Machine Learning? 
+41, What are support vector machines? 
+42, What are the components of relational evaluation techniques? 
+43, What are the different methods for Sequential Supervised Learning? 
+44, What are the areas in robotics and information processing where sequential prediction problem arises? 
+45, What is batch statistical learning? 
+46,   What is PAC Learning? 
+47, What are the different categories you can categorized the sequence learning process? 
+48, What is sequence learning? 
+49, What are two techniques of Machine Learning ? 
+50, Give a popular application of machine learning that you see on day to day basis? 

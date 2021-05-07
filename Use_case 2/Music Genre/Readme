@@ -1,0 +1,12 @@
+# Dataset collected from: http://marsyas.info/downloads/datasets.html
+
+conversion of training audio data is a ipynb file which convert the audio dataset into csv which will further used for preprocess and 
+training of model
+
+There are two models present in this folder one is ANN model ipynb file and along with that model.h5 and model.json file which contain the
+weight and model 
+
+The next model is in ipynb contian lgb model and the saved model is also saved here as lgb_model.sav
+
+Finally, we a end product named as User_pr_lgb model which is a ipynb file contains a function in it which 
+there only we have to pass the audio data of which label we want to find
